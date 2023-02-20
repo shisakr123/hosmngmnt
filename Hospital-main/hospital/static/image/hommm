@@ -1,0 +1,1742 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.opengroup.org/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.opengroup.org/forum/healthcare-forum" />
+<link rel="shortlink" href="https://www.opengroup.org/node/1371" />
+<meta property="og:site_name" content="The Open Group Website" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.opengroup.org/forum/healthcare-forum" />
+<meta property="og:title" content="Healthcare Forum" />
+<meta property="og:updated_time" content="2021-01-27T12:39:31-05:00" />
+<meta property="og:image" content="https://www.opengroup.org/sites/default/files/the-open-group-logo_og.png" />
+<meta property="og:image:alt" content="The Open Group" />
+<meta name="twitter:title" content="Healthcare Forum" />
+<meta property="article:published_time" content="2018-03-29T13:00:25-04:00" />
+<meta property="article:modified_time" content="2021-01-27T12:39:31-05:00" />
+  <title>Healthcare Forum | The Open Group Website</title>
+  <link type="text/css" rel="stylesheet" href="https://www.opengroup.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.opengroup.org/sites/default/files/css/css_YmuMqUm--85MDg6GF8xFt60xnxOSYeKArfr5yk0-sVc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.opengroup.org/sites/default/files/css/css_2kDqw5uxHhBzdw1_xmQJVxR80N-xv0H8wBgTFSYiEMU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.opengroup.org/sites/default/files/css/css_r6g3jNcQgn6e-x6XrUf4bnUNywmeOqVqT0wt_mQ7MPM.css" media="all" />
+<style>.tb-megamenu.animate .mega > .mega-dropdown-menu,.tb-megamenu.animate.slide .mega > .mega-dropdown-menu > div{transition-delay:200ms;-webkit-transition-delay:200ms;-ms-transition-delay:200ms;-o-transition-delay:200ms;transition-duration:400ms;-webkit-transition-duration:400ms;-ms-transition-duration:400ms;-o-transition-duration:400ms;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@unicorn-fail/drupal-bootstrap-styles@0.0.2/dist/3.3.1/7.x-3.x/drupal-bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.opengroup.org/sites/default/files/css/css_pdS4H4-DOCIsC5Pk8wNy7T6-D8SnlUwZnh8QxDUsQFQ.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N5DDDR6');</script>
+<script src="https://www.opengroup.org/sites/all/modules/jquery_update/replace/jquery/2.2/jquery.min.js?v=2.2.4"></script>
+<script src="https://www.opengroup.org/misc/jquery-extend-3.4.0.js?v=2.2.4"></script>
+<script src="https://www.opengroup.org/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.2.4"></script>
+<script src="https://www.opengroup.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.opengroup.org/misc/drupal.js?rpttca"></script>
+<script src="https://www.opengroup.org/sites/all/modules/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.js"></script>
+<script src="https://www.opengroup.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?rpttca"></script>
+<script src="https://www.opengroup.org/sites/all/modules/colorbox/js/colorbox.js?rpttca"></script>
+<script src="https://www.opengroup.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?rpttca"></script>
+<script src="https://www.opengroup.org/sites/all/modules/colorbox/js/colorbox_load.js?rpttca"></script>
+<script src="https://www.opengroup.org/sites/all/modules/colorbox/js/colorbox_inline.js?rpttca"></script>
+<script src="https://www.opengroup.org/sites/all/modules/contrib/lightbox2/js/lightbox.js?rpttca"></script>
+<script src="https://www.opengroup.org/sites/all/modules/tb_megamenu/js/tb-megamenu-frontend.js?rpttca"></script>
+<script src="https://www.opengroup.org/sites/all/modules/tb_megamenu/js/tb-megamenu-touch.js?rpttca"></script>
+<script src="https://www.opengroup.org/sites/all/modules/google_analytics/googleanalytics.js?rpttca"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-292260-1", {"cookieDomain":"auto","allowLinker":true});ga("require", "linker");ga("linker:autoLink", ["opengroup.org","prod.opengroup.org"]);ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://www.opengroup.org/sites/all/modules/custom/openid_connect/js/openid_connect.js?rpttca"></script>
+<script src="https://www.opengroup.org/sites/all/themes/opengroup_bs/js/customeJs.js?rpttca"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"opengroup_bs","theme_token":"DKAohKekmpibYPrzCS9qitcOyKLSW1_pcIHsUhzAQhk","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.2\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_browser.js":1,"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@3.4.1\/dist\/js\/bootstrap.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/modules\/custom\/openid_connect\/js\/openid_connect.js":1,"sites\/all\/themes\/opengroup_bs\/js\/customeJs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"0":1,"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@3.4.1\/dist\/css\/bootstrap.min.css":1,"https:\/\/cdn.jsdelivr.net\/npm\/@unicorn-fail\/drupal-bootstrap-styles@0.0.2\/dist\/3.3.1\/7.x-3.x\/drupal-bootstrap.min.css":1,"sites\/all\/themes\/opengroup_bs\/css\/style.css":1,"sites\/all\/themes\/opengroup_bs\/css\/theme_colors.css":1,"sites\/all\/themes\/opengroup_bs\/css\/ada.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":1,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0,"useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/110.0.0.0 Safari\/537.36"},"better_exposed_filters":{"views":{"forum_banner":{"displays":{"block":{"filters":[]}}},"upcoming_news_home":{"displays":{"block_1":{"filters":[]}}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1,"trackDomainMode":2,"trackCrossDomains":["opengroup.org","prod.opengroup.org"]},"openid_connect":{"server":"https:\/\/identity.opengroup.org\/oidc\/logout"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1371 node-type-forum">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="region region-page-top">
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5DDDR6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  </div>
+  <header id="navbar" role="banner" class="navbar container navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+            <a class="logo navbar-btn pull-left" href="/" title="Home">
+        <img src="https://www.opengroup.org/sites/default/files/the-open-group-support-logo_0.png" alt="Home" />
+      </a>
+      
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button> -->
+    </div>
+
+          <div class="navbar-collapse">
+        <nav role="navigation">
+                                <ul class="menu nav navbar-nav secondary"><li class="first leaf logged-sso"><a href="/account-information">Update My Profile</a></li>
+<li class="leaf logged-sso"><a href="https://collaboration.opengroup.org/">Collaboration Portal</a></li>
+<li class="last leaf non-logged-sso"><a href="/sso/user/login">Log In</a></li>
+</ul>                                  <div class="region region-navigation">
+    <section id="block-tb-megamenu-main-menu" class="block block-tb-megamenu clearfix">
+
+      
+  <div  data-duration="400" data-delay="200" id="tb-megamenu-main-menu" class="tb-megamenu tb-megamenu-main-menu animate fading">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="fa fa-reorder"></i><span style='display:none;'>Collapse navbar</span>
+    </button>
+    <div class="nav-collapse  always-show">
+    <ul  class="tb-megamenu-nav nav level-0 items-9">
+    <li  data-id="2466" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-1 mega mega-align-justify dropdown">
+          <a href="/about-us"  class="dropdown-toggle" title="The Open Group is a global consortium that enables the achievement of business objectives through technology standards. The Open Group leads the development of open, vendor-neutral technology standards and certifications.">
+                About Us                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="6" data-hidewcol="" id="tb-megamenu-column-2" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+    <li  data-id="2501" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group">
+          <a href="/about-us/who-we-are"  class="mega-group-title" title="The Open Group is a global consortium that enables the achievement of business objectives through technology standards.  Our diverse membership of more than 580 organizations includes customers, systems and solutions suppliers, tool vendors, integrators, academics, and consultants across multiple industries.">
+                Who We Are                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-1" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-6">
+    <li  data-id="13740" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/executive-team" >
+                Executive Team                      </a>
+          </li>
+
+  <li  data-id="2506" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/governing-board"  title="Governing Board">
+                Governing Board                      </a>
+          </li>
+
+  <li  data-id="2961" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/elected-member-and-supplier-representatives" >
+                Elected Member Representatives                      </a>
+          </li>
+
+  <li  data-id="6556" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/about-us/workgroup" >
+                Forum and Work Group Officers                      </a>
+          </li>
+
+  <li  data-id="2966" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/offices-contacts" >
+                Offices &amp; Contacts                      </a>
+          </li>
+
+  <li  data-id="8406" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/recruitment" >
+                Recruitment                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="6" data-hidewcol="0" id="tb-megamenu-column-8" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+    <li  data-id="2491" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group">
+          <a href="/about-us/what-we-do"  class="mega-group-title">
+                What we do                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-7" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+    <li  data-id="2496" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/about-us/vision-mission" >
+                Vision &amp; Mission                      </a>
+          </li>
+
+  <li  data-id="3021" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega dropdown-submenu">
+          <a href="/what-we-do-technology-standards"  class="dropdown-toggle" title="The Open Group works with customers and suppliers of IT products and services, and with consortia and other standards organizations to capture, clarify and integrate current and emerging requirements, establish standards and policies, and share best practices. Our standards ensure openness, interoperability and consensus.
+
+The Open Group Standards Process defines the procedures for key tasks within The Open Group Standards development activities (more...).">
+                Technology Standards                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="" data-hidewcol="0" id="tb-megamenu-column-3" class="tb-megamenu-column span  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-3 items-1">
+    <li  data-id="6901" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-4 mega">
+          <a href="/view-standards-information-base-historical" >
+                View Standards Information Base (Historical)                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3031" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega dropdown-submenu">
+          <a href="/services"  class="dropdown-toggle" title="The Open Group offers an effective methodology to form and govern standards initiatives and to develop standards and certification programs.">
+                Services                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-6" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-3 items-4">
+    <li  data-id="3041" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-4 mega">
+          <a href="/develop-certification-programs" >
+                Develop Certification Programs                      </a>
+          </li>
+
+  <li  data-id="3046" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-4 mega">
+          <a href="/services/new-standards-initiatives-industry" >
+                New Standards Initiatives for Industry                      </a>
+          </li>
+
+  <li  data-id="3051" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega dropdown-submenu">
+          <a href="/about-us/test-suite"  class="dropdown-toggle">
+                Test Suites                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-4" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-4 items-4">
+    <li  data-id="3056" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-5 mega">
+          <a href="/unix-systems" >
+                UNIX® Systems                      </a>
+          </li>
+
+  <li  data-id="3061" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-5 mega">
+          <a href="/posix-systems" >
+                POSIX® Systems                      </a>
+          </li>
+
+  <li  data-id="3066" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-5 mega">
+          <a href="/embedded-systems" >
+                Embedded Systems                      </a>
+          </li>
+
+  <li  data-id="3076" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-5 mega">
+          <a href="http://www.opengroup.org/testing/" >
+                Other Test Suites                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="6881" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-4 mega dropdown-submenu">
+          <a href="/collaboration-services-0"  class="dropdown-toggle">
+                Collaboration Services                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-5" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-4 items-1">
+    <li  data-id="6886" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-5 mega">
+          <a href="/collaboration-services-0/plato" >
+                Plato                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="2521" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="center" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-1 mega mega-align-center dropdown">
+          <a href="/certifications"  class="dropdown-toggle" title="The Open Group certification programs for Enterprise Architects and Technical Specialists provide worldwide professional credentials for knowledge, skills and experience.  For technology products, services and processes, certification offers a worldwide guanantee of conformance.">
+                Certifications                  <span class="caret"></span>
+                      </a>
+        <div  data-class="align_in_tab" data-width="900" style="width: 900px;" class="tb-megamenu-submenu align_in_tab dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="6" data-hidewcol="0" id="tb-megamenu-column-11" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-9">
+    <li  data-id="4151" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+          <a href="/certifications" >
+                Certifications Overview                      </a>
+          </li>
+
+  <li  data-id="13920" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/certifications/enhance-your-career" >
+                Enhance your Career                      </a>
+          </li>
+
+  <li  data-id="12351" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/certifications/virtual-training-resources" >
+                Virtual Training Resources                      </a>
+          </li>
+
+  <li  data-id="13681" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/certifications/hr-resources" >
+                HR-Resources                      </a>
+          </li>
+
+  <li  data-id="3151" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/certifications/openbadges" >
+                Open Badges                      </a>
+          </li>
+
+  <li  data-id="14971" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="https://help.opengroup.org/home" >
+                Contact Us                      </a>
+          </li>
+
+  <li  data-id="12971" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group">
+          <a href="/certifications/knowledge-based-certifications"  class="mega-group-title">
+                Professional Certification - Knowledge Based                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="" data-hidewcol="0" id="tb-megamenu-column-10" class="tb-megamenu-column span  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-9">
+    <li  data-id="14963" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/archimate" >
+                ArchiMate® Certification                      </a>
+          </li>
+
+  <li  data-id="11346" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/dpbok" >
+                Digital Practitioner Certification                      </a>
+          </li>
+
+  <li  data-id="14961" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/it4it" >
+                IT4IT™ Certification                      </a>
+          </li>
+
+  <li  data-id="14964" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/open-agile-architecture" >
+                Open Agile Architecture™ Certification                      </a>
+          </li>
+
+  <li  data-id="14962" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/openfair" >
+                Open FAIR™ Certification                      </a>
+          </li>
+
+  <li  data-id="14967" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega dropdown-submenu">
+          <a href="/certifications/togaf-certification-portfolio"  class="dropdown-toggle">
+                TOGAF Certification Portfolio                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="" data-hidewcol="0" id="tb-megamenu-column-9" class="tb-megamenu-column span  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-3 items-1">
+    <li  data-id="14968" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-4 mega">
+          <a href="/certifications/togaf-certification-credentials" >
+                TOGAF® Certification Credentials                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="13361" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/togaf-role-based-badges" >
+                TOGAF® Role-Based Badges                      </a>
+          </li>
+
+  <li  data-id="14965" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/getting-started" >
+                Prepare for your Knowledge-Based Certification                      </a>
+          </li>
+
+  <li  data-id="15088" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/how-to-complete" >
+                Complete your Certification                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="14969" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/certifications/take-exam" >
+                Take an Exam                      </a>
+          </li>
+
+  <li  data-id="6921" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/certifications/faqs" >
+                Frequently Asked Questions                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="6" data-hidewcol="" id="tb-megamenu-column-16" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-6">
+    <li  data-id="2671" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group">
+          <a href="/experience-based-professional-certification-open-professions-program"  class="mega-group-title">
+                Professional Certification -  Experience based                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="" data-hidewcol="0" id="tb-megamenu-column-13" class="tb-megamenu-column span  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-6">
+    <li  data-id="10701" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/prepare-for-openprofessions" >
+                Prepare for Certification                      </a>
+          </li>
+
+  <li  data-id="2676" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega mega-group">
+          <a href="/certifications/certified-architect-open-ca"  class="mega-group-title">
+                Certified Architect  (Open CA)                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-12" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-3 items-4">
+    <li  data-id="2681" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+          <a href="/benefits" >
+                Benefits                      </a>
+          </li>
+
+  <li  data-id="2686" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+          <a href="/get-started" >
+                Get Started                      </a>
+          </li>
+
+  <li  data-id="2706" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-4 mega">
+          <a href="/certifications/applying-open-ca-certification" >
+                Applying for Open CA Certification                      </a>
+          </li>
+
+  <li  data-id="2716" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+          <a href="/route-open-ca-certification" >
+                Route to Open CA Certification                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="13296" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/certification-program-accreditation" >
+                Certification Program Accreditation                      </a>
+          </li>
+
+  <li  data-id="8756" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/certified-data-scientist-open-cds" >
+                Certified Data Scientist  (Open CDS)                      </a>
+          </li>
+
+  <li  data-id="3081" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/certified-technical-specialist-open-cts" >
+                Certified Technical Specialist (Open CTS)                      </a>
+          </li>
+
+  <li  data-id="12036" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/certified-trusted-technology-practitioner-open-cttp" >
+                Certified Trusted Technology Practitioner (Open CTTP)                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3236" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group">
+          <a href="/certifications/product-tool-processes-certification"  class="mega-group-title">
+                Product | Tool | Processes Certification                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="" data-hidewcol="0" id="tb-megamenu-column-15" class="tb-megamenu-column span  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-5">
+    <li  data-id="6941" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/archimate/tool" >
+                ArchiMate® Tools                      </a>
+          </li>
+
+  <li  data-id="6946" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="http://get.posixcertified.ieee.org/certification_guide.html"  target="_blank" title="POSIX®">
+                POSIX®                      </a>
+          </li>
+
+  <li  data-id="6951" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/togaf/tool" >
+                TOGAF® Tools                      </a>
+          </li>
+
+  <li  data-id="6956" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega dropdown-submenu">
+          <a href="/certifications/unix"  class="dropdown-toggle">
+                UNIX® Systems                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-14" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-3 items-1">
+    <li  data-id="8416" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-4 mega">
+          <a href="/certifications/unix/standards" >
+                UNIX® Standards                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="6961" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/certifications/o-ttps" >
+                O-TTPS Certification program                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3156" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/certifications/registers" >
+                Certification | Product | Accreditation Registers                      </a>
+          </li>
+
+  <li  data-id="14292" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/certifications/face-training" >
+                FACE™ Accredited Training                      </a>
+          </li>
+
+  <li  data-id="8206" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/certifications/accreditation/accreditation-hub" >
+                Training Course Accreditation                      </a>
+          </li>
+
+  <li  data-id="15091" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/certifications/accreditation/become-atc-provider" >
+                Become an Accredited Training Course Provider                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3256" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="center" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-1 mega mega-align-center dropdown">
+          <a href="/events"  class="dropdown-toggle" title="The Open Group events are for business and technology professionals interested in achieving business objectives through technology standards. The Open Group organizes conferences, member meetings, industry verticals, webinars and podcasts on a wide variety of topics.">
+                Events                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="600" style="width: 600px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="6" data-hidewcol="" id="tb-megamenu-column-19" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-3">
+    <li  data-id="3261" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group">
+          <a href="/upcoming-events-webinars"  class="mega-group-title">
+                Upcoming Events &amp; Webinars                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="" data-hidewcol="0" id="tb-megamenu-column-17" class="tb-megamenu-column span  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+    <li  data-id="15090" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="https://events.opengroup.org/LondonSummit-2023-Apr" >
+                The Open Group London, UK | April 17-20, 2023                      </a>
+          </li>
+
+  <li  data-id="14060" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="https://meet.opengroup.org/event/toolkit-tuesday-webinar" >
+                Toolkit Tuesday Broadcast Series                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3306" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group">
+          <a href="/eventsdemand"  class="mega-group-title">
+                On-Demand                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-18" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+    <li  data-id="7601" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/our-podcasts" >
+                Podcasts by The Open Group                      </a>
+          </li>
+
+  <li  data-id="3311" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/webinars-0" >
+                Webinars                      </a>
+          </li>
+
+  <li  data-id="5831" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/youtube" >
+                The Open Group Channel | YouTube                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3301" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+          <a href="/sponsor-exhibitor-opportunities" >
+                Sponsor &amp; Exhibitor Opportunities                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="6" data-hidewcol="" id="tb-megamenu-column-22" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-3">
+    <li  data-id="3281" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/call-submissions" >
+                Call for Submissions                      </a>
+          </li>
+
+  <li  data-id="7916" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group">
+          <a href="/previous-events-proceedings"  class="mega-group-title">
+                Previous Events | Proceedings                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-20" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-8">
+    <li  data-id="15089" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="https://events.opengroup.org/EAforSustainability-2023-Jan"  target="_blank" title="The Open Group Virtual Event | January 31 - February 1, 2023">
+                The Open Group Virtual Event | January 31 - February 1, 2023                      </a>
+          </li>
+
+  <li  data-id="14087" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/event/opengroup-october-17-20-2022" >
+                The Open Group Edinburgh, UK | October 17-19, 2022                      </a>
+          </li>
+
+  <li  data-id="14528" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="https://www.opengroup.org/open-group-india-awards-innovation-and-excellence-use-open-standards-and-open-source-july-27-2022"  target="_blank" title="The Open Group India Awards for Innovation and Excellence, July 27, 2022">
+                The Open Group India Awards for Innovation and Excellence, July 27, 2022                      </a>
+          </li>
+
+  <li  data-id="14086" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="https://events.opengroup.org/website/39970/" >
+                The Open Group Washington, DC | July 25-27, 2022                      </a>
+          </li>
+
+  <li  data-id="14085" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/event/opengroup-april-25-27-2022" >
+                The Open Group London | Hybrid | April 25-26, 2022                      </a>
+          </li>
+
+  <li  data-id="14231" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="https://meet.opengroup.org/event/25-year-anniversary?_ga=2.184483622.1254584815.1635772413-201262660.1623701215" >
+                The Open Group 25th Anniversary Event - October 25-27, 2021                      </a>
+          </li>
+
+  <li  data-id="13301" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="https://na.eventscloud.com/website/20851/home/#home" >
+                The Open Group - January 25-27, 2021                      </a>
+          </li>
+
+  <li  data-id="13356" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="https://meet.opengroup.org/event/virtual-event" >
+                FACE and SOSA Technical Interchange Meeting - Sep 21, 2020                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3286" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group">
+          <a href="/partners-and-industry-events"  class="mega-group-title">
+                Partners and Industry Events                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-21" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+    <li  data-id="3291" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/association-enterprise-architects" >
+                Association of Enterprise Architects                      </a>
+          </li>
+
+  <li  data-id="3296" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/industry-events-featuring-open-group" >
+                Industry Events Featuring The Open Group                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="2781" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="center" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega mega-align-center dropdown">
+          <a href="/node/731"  class="dropdown-toggle" title="The Open Group Membership grants organizations access to a wide variety of Forums and Work Groups — neutral environments where they can network, gain relevant knowledge, grow professionally, and collaborate on the development of standards, best practices and certifications.">
+                Membership                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="700" style="width: 700px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="6" data-hidewcol="0" id="tb-megamenu-column-25" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-9">
+    <li  data-id="8411" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/member-newsletters" >
+                Member Newsletters                      </a>
+          </li>
+
+  <li  data-id="14966" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/membership/forum-consortia-newsletters" >
+                Forum/Consortium Newsletters                      </a>
+          </li>
+
+  <li  data-id="3366" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+          <a href="/memberspotlight" >
+                Member Spotlights                      </a>
+          </li>
+
+  <li  data-id="3866" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group">
+          <a href="/membership"  class="mega-group-title">
+                Become a Member                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-23" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-4">
+    <li  data-id="3321" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+          <a href="/benefits-entitlements"  title="Membership benefits and entitlements">
+                Benefits &amp; Entitlements                      </a>
+          </li>
+
+  <li  data-id="3856" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/membership-faqs"  title="Frequently asked questions about The Open Group membership">
+                Membership FAQs                      </a>
+          </li>
+
+  <li  data-id="5496" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/commercial-license"  title="The Open Group licenses the use of our standards for commercial purposes. Organizations that are obligated to obtain a commercial license for one of our standards include trainers, software tool providers, and consultants who benefit commercially from the use of the standards.">
+                Membership | Commercial License                      </a>
+          </li>
+
+  <li  data-id="5121" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/academic-membership-faculty"  title="The Open Group Academic Membership is available to Academic Faculty at accredited colleges and universities. Our intention is to enable academic members to collaborate on projects that will help to further the technology profession and encourage the development and adoption of open standards.">
+                Academic Membership (faculty)                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="3376" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/membership-list" >
+                Membership List                      </a>
+          </li>
+
+  <li  data-id="3371" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+          <a href="http://www.opengroup.org/standardsprocess/" >
+                Standards Process                      </a>
+          </li>
+
+  <li  data-id="6896" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/company-reviews" >
+                Company Reviews (Member login required)                      </a>
+          </li>
+
+  <li  data-id="3966" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+          <a href="https://collaboration.opengroup.org/operational/portal.php?action=activity"  class="mega-group-title" title="Members Collaboration Portals [Login]">
+                Members Collaboration Portals [Login]                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-24" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-1">
+    <li  data-id="2936" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/member-code-conduct" >
+                Member Code of Conduct                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="11646" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/contribution-awards" >
+                Contribution Awards                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="4156" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="right" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-1 mega mega-align-right dropdown active active-trail">
+          <a href="/forums"  class="dropdown-toggle">
+                Forums                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="600" style="width: 600px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="6" data-hidewcol="0" id="tb-megamenu-column-26" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-12">
+    <li  data-id="3971" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/archimate-forum"  title="ArchiMate® optimizes the modeling language for enterprise architecture. The ArchiMate Specification provides instruments to enable Enterprise Architects to describe, analyze, and visualize the relationships among business domains in an unambiguous way.">
+                ArchiMate® Forum                      </a>
+          </li>
+
+  <li  data-id="7596" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/architecture-forum"  title="The Open Group Architecture Forum membership is the premier global environment for delivering business value through the development of robust Enterprise Architecture (EA) ecosystems.">
+                Architecture Forum                      </a>
+          </li>
+
+  <li  data-id="4116" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/content/exploration-mining-metals-minerals-emmm-forum-0" >
+                Exploration, Mining, Metals &amp; Minerals Forum                      </a>
+          </li>
+
+  <li  data-id="4791" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega active active-trail">
+          <a href="/forum/healthcare-forum"  title="The Healthcare Forum is developing a person-centered, value-based approach to understanding the Healthcare Enterprise and the role health IT can play in lowering costs and improving quality and access. Forum Members employ global, collaborative, and cross-disciplinary perspectives. Its work products are innovative, open, and accessible. The Healthcare Enterprise Reference Architecture (HERA) is a framework for healthcare stakeholders to improve their business by using IT in a smarter way. ">
+                Healthcare Forum                      </a>
+          </li>
+
+  <li  data-id="3871" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/it4it-forum"  title="The IT4IT Forum provides a vendor-neutral place to meet, gain knowledge and lead the development of the IT4IT Reference Architecture for IT management portfolio. The IT4IT Reference Architecture is for managing the business of IT, enabling insight for agile improvement with increased focus on business outcomes.">
+                IT4IT™ Forum                      </a>
+          </li>
+
+  <li  data-id="13331" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/openfootprint-forum" >
+                Open Footprint™ Forum                      </a>
+          </li>
+
+  <li  data-id="3331" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/forum/open-process-automation-forum"  title="The Open Process Automation™ Forum is focused on developing a standards-based, open, secure, interoperable process control architecture. The Forum is a consensus-based group of end users, suppliers, system integrators, standards organizations, and academia. It addresses both technical and business issues for process automation.">
+                Open Process Automation™ Forum                      </a>
+          </li>
+
+  <li  data-id="6841" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="https://osduforum.org/"  title="The Open Group OSDU™ Forum is focused on developing a standard data platform that will bring together exploration, development, and wells data. This will result in faster delivery of capabilities, and lower implementation and lifecycle costs across the Subsurface Community." target="_blank">
+                OSDU™ Forum                      </a>
+          </li>
+
+  <li  data-id="3896" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/forum/real-time-embedded-systems-forum-0" >
+                Real-time &amp; Embedded Systems Forum                      </a>
+          </li>
+
+  <li  data-id="8271" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/membership/forums/platform" >
+                The Open Group Platform Forum                      </a>
+          </li>
+
+  <li  data-id="4511" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/forum/trusted-technology-forum"  title="Open Trusted Technology develops open standards and certification/accreditation programs to help assure product integrity and global supply chain security.">
+                Open Trusted Technology Forum                      </a>
+          </li>
+
+  <li  data-id="3891" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/forum/security"  title="The Security Forum develops technical standards, guides, and best practices in the areas of Security Architecture and Information Security Management including risk management. ">
+                Security Forum                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="6" data-hidewcol="" id="tb-megamenu-column-31" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-3">
+    <li  data-id="7901" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group">
+          <a href="/work-groups"  class="mega-group-title">
+                Work Groups                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-29" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-5">
+    <li  data-id="4131" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega dropdown-submenu">
+          <a href="/forum/work-groups-open-all-members-open-group"  class="dropdown-toggle">
+                Work Groups Open to All Members of The Open Group                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-28" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-3 items-2">
+    <li  data-id="4096" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega dropdown-submenu">
+          <a href="/forum/service-oriented-architecture-soa"  class="dropdown-toggle">
+                Service Oriented Architecture (SOA)                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-27" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-4 items-1">
+    <li  data-id="10711" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-5 mega">
+          <a href="http://www.opengroup.org/odef/" >
+                Open Data Element Framework (O-DEF)                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="7011" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-4 mega">
+          <a href="/forum/digital-practitioners-work-group"  title="The Digital Practitioners Work Group exists to develop and promote an understanding of what it means to be digital, and to establish best practices for organizations providing a digital customer experience. Digital is not about IT – it is about business and workforce transformation. Digital Transformation is fundamentally a strategy and an operating model change, in which technological advancements are leveraged to improve human experiences and operating efficiencies, and to evolve the products and services to which customers will remain loyal.">
+                Digital Practitioners                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="4041" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/open-group-semantic-interoperability-work-group" >
+                The Open Group Semantic Interoperability Work Group                      </a>
+          </li>
+
+  <li  data-id="14645" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/initiate-work-group" >
+                The Open Group India Academic Initiative In Architecture (INITIATE) Work Group                      </a>
+          </li>
+
+  <li  data-id="7906" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/open-group-government-ea-work-group" >
+                The Open Group Government EA Work Group                      </a>
+          </li>
+
+  <li  data-id="12031" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/forum/commercial-aviation-work-group" >
+                The Open Group Commercial Aviation Work Group                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="4161" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega mega-group">
+          <a href="/consortia"  class="mega-group-title">
+                Consortia                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="" data-hidewcol="0" id="tb-megamenu-column-30" class="tb-megamenu-column span  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+    <li  data-id="12991" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/face" >
+                Future Airborne Capability Environment™ (FACE)                      </a>
+          </li>
+
+  <li  data-id="4101" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-3 mega">
+          <a href="/sosa"  title="The SOSA Consortium enables government and industry to collaboratively develop open standards and best practices to enable, enhance and accelerate the deployment of affordable, capable, interoperable sensor systems.">
+                Sensor Open Systems Architecture™ (SOSA)                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="13802" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="/communities/datascience" >
+                Data Science Community                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="2801" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="right" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-1 mega mega-align-right dropdown">
+          <a href="https://publications.opengroup.org/"  class="dropdown-toggle">
+                Library                  <span class="caret"></span>
+                      </a>
+        <div  data-class="" data-width="400" style="width: 400px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="6" data-hidewcol="0" id="tb-megamenu-column-32" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-6">
+    <li  data-id="5836" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+          <a href="https://publications.opengroup.org/standards"  title="Standards">
+                Standards                      </a>
+          </li>
+
+  <li  data-id="5841" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+          <a href="https://publications.opengroup.org/certifications"  title="Certifications">
+                Certifications                      </a>
+          </li>
+
+  <li  data-id="5846" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+          <a href="https://publications.opengroup.org/guides"  title="Guides">
+                Guides                      </a>
+          </li>
+
+  <li  data-id="5851" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+          <a href="https://publications.opengroup.org/data-sheets"  title="Data Sheets">
+                Data Sheets                      </a>
+          </li>
+
+  <li  data-id="5856" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+          <a href="https://publications.opengroup.org/webinars"  title="Webinars">
+                Webinars                      </a>
+          </li>
+
+  <li  data-id="5861" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+          <a href="https://publications.opengroup.org/white-papers"  title="White Papers">
+                White Papers                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="6" data-hidewcol="" id="tb-megamenu-column-33" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-6">
+    <li  data-id="12046" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="https://publications.opengroup.org/archimate-library" >
+                ArchiMate® Library                      </a>
+          </li>
+
+  <li  data-id="12966" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="https://publications.opengroup.org/dpbok-library" >
+                DPBoK™ Library                      </a>
+          </li>
+
+  <li  data-id="12041" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="https://publications.opengroup.org/it4it-library" >
+                IT4IT™  Library                      </a>
+          </li>
+
+  <li  data-id="14059" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="https://publications.opengroup.org/security-library" >
+                Security Library                      </a>
+          </li>
+
+  <li  data-id="5871" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="https://publications.opengroup.org/togaf-library"  title="The TOGAF Library">
+                TOGAF® Library                      </a>
+          </li>
+
+  <li  data-id="5866" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-2 mega">
+          <a href="https://publications.opengroup.org/sort-by-subject"  title="More Subject Areas">
+                More Subject Areas                      </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="13801" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" id="" style="" class="tb-megamenu-item level-1 mega">
+          <a href="https://shop.opengroup.org/?_ga=2.181136161.764314717.1616428419-1081650477.1611941096" >
+                Shop                      </a>
+          </li>
+</ul>
+      </div>
+  </div>
+
+</section>
+  </div>
+                  </nav>
+      </div>
+    	<div id="searchDisply_form" class="searchDisply_hover">
+	  <form>
+		<div>
+      <label for="searchInput" class="display-none">Search</label>
+			<input id="searchInput" type="text" placeholder="Search" />
+			<span>
+				<button id="buttonSubmit" type="submit" class="btn btn-default"><i class="icon glyphicon glyphicon-search" aria-hidden="true"></i><span class="display-none">Search Submit</span></button>
+			</span>
+		</div>
+	  </form>
+	</div>
+    <!--	-->  </div>
+</header>
+
+<div class="main-container fluid-container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    
+    <section class="col-sm-12">
+                  <a id="main-content"></a>
+                    <h1 class="display-none page-header">Healthcare Forum</h1>
+                                                  	  <div>
+		  <div class="to-table clearfix">
+						<div class="col-xs-12 col-sm-8 col-md-9 to-tablecell">
+								  <div id="herosliderforum">
+					  <div class="region region-herosliderhome">
+    <section id="block-views-forum-banner-block" class="block block-views clearfix">
+
+      
+  <div class="view view-forum-banner view-id-forum_banner view-display-id-block view-dom-id-c144224cd484d31a24bb7e470b7d9a8a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-hero-image-para">        <div class="field-content"><ul><li><div class="entity entity-paragraphs-item paragraphs-item-hero-image">
+  <div class="content">
+    <div class="field field-name-field-hero-image-style-pg field-type-iss field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://www.opengroup.org/sites/default/files/styles/no_style/public/healthcare-slides1_0_0.jpg?itok=SY1kX1QV" width="685" height="200" alt="" /></div></div></div>  </div>
+</div>
+</li>
+</ul></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+  </div>
+				  </div>
+											</div>
+		 </div>
+	  </div>
+
+
+        <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-1371" class="node node-forum clearfix" about="/forum/healthcare-forum" typeof="sioc:Item foaf:Document">
+    <header>
+            <span property="dc:title" content="Healthcare Forum" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field field-name-field-member-buttons field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://collaboration.opengroup.org/healthcare/protected/?prot=Y&amp;gpid=699" class="btn btn-primary">Forum Member Login</a></div><div class="field-item odd"><a href="https://www.opengroup.org/healthcareactionablereminders" class="btn btn-primary">Member Actionable Reminders</a></div></div></div>
+<div class="paragraphs-items paragraphs-items-field-paragraph paragraphs-items-field-paragraph-full paragraphs-items-full">
+  <div class="field field-name-field-paragraph field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div style="background-color: #d3dee3;">
+	<div class="container_fluid_cust">
+	  <div class="row">
+		<div class="col-sm-12 col-md-12 col-xs-12">
+                   <h2><a
+           href="healthcare-forum/form">Healthcare Forum</a>
+          </h2>
+        		</div>
+		<div class="col-sm-5 col-md-4 col-xs-12 pull-right text-center col-lg-4">
+		  			  
+		
+		    <div class="field field-name-field-forum-image-para field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.opengroup.org/sites/default/files/%20Healthcare%20Forum%20Image%201.jpg" rel="lightbox[field_forum_image_para][]" title=""><img typeof="foaf:Image" class="img-responsive" src="https://www.opengroup.org/sites/default/files/%20Healthcare%20Forum%20Image%201.jpg" width="1254" height="836" alt="" /></a></div></div></div>			  
+		  					</div>
+
+		<div class="col-sm-7 col-md-8 col-xs-12 col-lg-8">
+		  <div style="color: #333;">
+			<p>
+	<strong>Our Vision</strong></p>
+
+<p>
+	Imagine a world in which health information is available when and where you need it.</p>
+
+<p>
+	<strong>Healthcare Interoperability</strong></p>
+
+<p>
+	We believe that person-centered, value-based healthcare depends on interoperability. Interoperability enables the flow of information within and across healthcare systems. Information flow based on healthcare system requirements, standards development, and IT implementation systems helps enable actors to produce their core capabilities effectively, error-free, and securely. &nbsp;<a href="/healthcareforum/interoperability">Learn more</a></p>
+
+<p>
+	<strong>Healthcare Forum Membership&nbsp;Benefits&nbsp;Healthcare Consultants, Payers, and&nbsp;Providers</strong></p>
+
+<ul>
+	<li>
+		&bull; Guide&nbsp;standards development to ensure&nbsp;adoption of necessary&nbsp;requirements for interoperable solutions</li>
+	<li>
+		&bull; Improve information flow within your organization and with partners in your&nbsp;care delivery ecosystem&nbsp;</li>
+	<li>
+		&bull; Address your pressing Healthcare IT business problems</li>
+	<li>
+		&bull; Engage in regular dialog with diverse healthcare stakeholdders&nbsp;about improved interoperability and information flow</li>
+	<li>
+		&bull; Drive the healthcare&nbsp;community towards less proprietary,&nbsp;more open solutions to reduce lock-in&nbsp;and improve business efficiencies</li>
+	<li>
+		&bull; Gain business efficiencies through better information flow with ecosystem partners at a lower cost</li>
+</ul>
+
+<p>
+	<strong>Healthcare Forum Membership Benefits&nbsp;IT Hardware, Software, and Consulting Services Vendors and Medical Device Vendors</strong></p>
+
+<ul>
+	<li>
+		&bull; Influence standards development&nbsp;and gain&nbsp;early access to emerging standards that affect your business</li>
+	<li>
+		&bull; Gain a clearer and more empathic&nbsp;understanding of customer HIT and EHR pain-points and requirements</li>
+	<li>
+		&bull; Demonstrate leadership in Healthcare IT &ndash; show customers and collaborators&nbsp;your commitment to improving information flow in&nbsp;care delivery and outcomes improvement</li>
+	<li>
+		&bull; Collaborate with other innovators; prepare for the future; develop key relationships</li>
+</ul>
+		  </div>
+		  <div class="field field-name-field-forum-link-text field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.opengroup.org/healthcare-forum/form">Get Involved</a></div></div></div></div>
+	  </div>
+	</div>
+</div>
+</div><div class="field-item odd">
+
+<div
+  style="background-color: #81a2b0;">
+  <div class="container_fluid_cust">
+    <div class="row">
+      <div class="col-xs-12 col-sm-offset-5 col-md-offset-4 col-sm-7 col-md-8">
+                  <h2><a
+              href="http://www.fhim.org">FHIM and FHIM Profile Builder (FPB)</a>
+          </h2>
+              </div>
+      <div class="col-sm-5 col-md-4 col-xs-12 text-center col-lg-4">
+                   
+          <div class="field field-name-field-image-rtl field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://www.opengroup.org/sites/default/files/fhim-logo.png" width="583" height="260" alt="fhim logo" /></div></div></div>		    
+        		      </div>
+
+      <div
+        class="col-sm-7 col-md-8 col-xs-12 link_align_right col-lg-8">
+
+        <div
+          style="color: #006674;">
+          <p>
+	The <strong>FHIM</strong> is the &quot;Federated Health Information Model&quot;. It is a complex but elegantly designed framework (including information and terminology modeling) to help enable widespread health information exchange. It is applicable at all levels: local, regional, and global.</p>
+
+<p>
+	The FHIM was developed by the US Government and its contractors, within the now defunct Federal Health Architecture (FHA) Program. The FHIM was supported by over 20 Federal Agencies. It was organizationaly located within the ONC. When the governement selected The Open Group as the new FHIM Steward in 2019, over $5 million and 200,000 person hours had been spent building and using the FHIM, primarily within the VA and DoD.</p>
+
+<p>
+	The FHIM is an integrated model composed of health and healthcare-related content explicitly aligned with industry information models and standards. The FHIM addresses two persistent gaps:</p>
+
+<ul>
+	<li>
+		&bull; The &ldquo;too many standards&rdquo; problem in healthcare</li>
+	<li>
+		&bull; Data inconsistencies within and between standards</li>
+</ul>
+
+<p>
+	The FHIM supports the exchange of meaningful, interoperable information, quickly and accurately and consistently, for the betterment of patient care.</p>
+
+<p>
+	The <strong>FHIM Profile Builder (FPB)</strong> is an open source tool managed by The Open Group that responds to the need to produce standards-based API profiles that can be easily reused to promote widespread interoperability. The FPB can automate profile building, rendering the use of APIs, such as FHIR, functional without special effort, as required by legislation (in the US) and the exigencies of typical clinical practice settings.</p>
+        </div>
+        <div class="field field-name-field-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://www.fhim.org">The Open Group FHIM Website</a></div><div class="field-item odd"><a href="https://www.youtube.com/watch?v=i3tR1nAiL4o&amp;feature=youtu.be">Video: The Open Group Healthcare Forum and the FHIM</a></div></div></div>      </div>
+    </div>
+  </div>
+</div>
+</div><div class="field-item even">
+
+<div
+  style="background-color: #ffffff;">
+  <div class="container_fluid_cust">
+    <div class="row">
+      <div class="col-xs-12 col-sm-offset-5 col-md-offset-4 col-sm-7 col-md-8">
+                  <h2><a
+              href="https://publications.opengroup.org/catalogsearch/result/">The O-HERA™</a>
+          </h2>
+              </div>
+      <div class="col-sm-5 col-md-4 col-xs-12 text-center col-lg-4">
+                   
+          <div class="field field-name-field-image-rtl field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://www.opengroup.org/sites/default/files/ohera-cropped.png" width="1049" height="970" alt="O-hera diagram" /></div></div></div>		    
+        		      </div>
+
+      <div
+        class="col-sm-7 col-md-8 col-xs-12 link_align_right col-lg-8">
+
+        <div
+          style="color: #00667f;">
+          <h2>
+	<strong>Health Enterprise Reference Architecture (O-HERA)</strong></h2>
+
+<p>
+	The Healthcare Forum has developed a comprehensive, 12-step framework designed to identify and deliver digital solutions to data issues experienced by health services delivery enterprises and their vendors.</p>
+
+<p>
+	The Framework is rooted in deep knowledge of:</p>
+
+<p>
+	1) Health services provider and supplier industries, including the political, technical, and socio-cultural contexts in which they operate</p>
+
+<p>
+	2) The barriers and benefits to using HIT to solve business problems</p>
+
+<p>
+	3) Best practices and lessons learned from using Enterprise Architecture methods to create efficiencies in industries as diverse as communications, financial services, and defense</p>
+
+<p>
+	Using the Healthcare Architectural Framework, the Healthcare Forum is also developing a Health Enterprise Reference Architecture (HERA):</p>
+
+<p>
+	1) To provide a downloadable ArchiMate&reg; model and guide to develop implementation reference architectures</p>
+
+<p>
+	2) HERA can be implemented by a wide range of healthcare and IT stakeholders, using a wide range of tools available to them, and tailored to legacy systems</p>
+        </div>
+        <div class="field field-name-field-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://publications.opengroup.org/catalogsearch/result/?q=HERA">HERA details</a></div></div></div>      </div>
+    </div>
+  </div>
+</div>
+</div><div class="field-item odd"><div style="background-color: rgba(155,155,155,0.31);">
+	<div class="container_fluid_cust">
+	  <div class="row">
+		<div class="col-sm-12 col-md-12 col-xs-12">
+                   <h2><a
+           href="events">Events</a>
+          </h2>
+        		</div>
+		<div class="col-sm-5 col-md-4 col-xs-12 pull-right text-center col-lg-4">
+		  			  
+		
+		    <div class="field field-name-field-forum-image-para field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.opengroup.org/sites/default/files/events-image_2.jpg" rel="lightbox[field_forum_image_para][]" title=""><img typeof="foaf:Image" class="img-responsive" src="https://www.opengroup.org/sites/default/files/events-image_2.jpg" width="252" height="253" alt="" /></a></div></div></div>			  
+		  					</div>
+
+		<div class="col-sm-7 col-md-8 col-xs-12 col-lg-8">
+		  <div style="color: #00667f;">
+			<p>
+	The Open Group events are for business and technology professionals interested in&nbsp;achieving&nbsp;business objectives through technology standards. The Open Group organizes conferences, member meetings, industry verticals, webinars, and podcasts on a wide variety of topics.</p>
+
+<p>
+	Check our events calendar for upcoming events.</p>
+
+<p>
+	Follow The Open Group on Twitter @theopengroup</p>
+		  </div>
+		  <div class="field field-name-field-forum-link-text field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.opengroup.org/events">Get Details | Register</a></div></div></div></div>
+	  </div>
+	</div>
+</div>
+</div><div class="field-item even">
+
+<div
+  style="background-color: #81a2b0;">
+  <div class="container_fluid_cust">
+    <div class="row">
+      <div class="col-xs-12 col-sm-offset-5 col-md-offset-4 col-sm-7 col-md-8">
+                  <h2><a
+              href="https://publications.opengroup.org/">Library | Reference Architectures</a>
+          </h2>
+              </div>
+      <div class="col-sm-5 col-md-4 col-xs-12 text-center col-lg-4">
+                   
+          <div class="field field-name-field-image-rtl field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://www.opengroup.org/sites/default/files/Healthcare%20Library.jpg" width="1254" height="836" alt="" /></div></div></div>		    
+        		      </div>
+
+      <div
+        class="col-sm-7 col-md-8 col-xs-12 link_align_right col-lg-8">
+
+        <div
+          style="color: #00667f;">
+          <p>
+	<strong>Websites:</strong></p>
+
+<p>
+	<a href="http://FHIM.org">www.fhim.org</a></p>
+
+<p>
+	<strong>Snaphots:</strong></p>
+
+<p>
+	<strong><a href="https://publications.opengroup.org/s182">HEALTH ENTERPRISE REFERENCE ARCHITECTURE&nbsp;(O-HERA)</a>&nbsp;</strong></p>
+
+<p>
+	The HERA is a framework for the development of a reference architecture for a healthcare company, from big to small (50 employees or more). It is a logical, cognitive map that can help most healthcare stakeholders improve their business by using IT in a smarter way.&nbsp;</p>
+
+<p>
+	<strong>White Papers: &nbsp;</strong></p>
+
+<p>
+	<strong><a href="https://publications.opengroup.org/w163" title="Healthcare Interoperability">HEALTHCARE INTEROPERABILITY</a>&nbsp;</strong></p>
+
+<p>
+	The Open Group Healthcare Forum seeks to advance interoperability to exchange key health and healthcare data.</p>
+
+<p>
+	<strong><a href="https://publications.opengroup.org/w153">ENHANCING HEALTH INFORMATION EXCHANGE WITH THE FHIM</a></strong></p>
+
+<p>
+	The goal of the Federal Health Information Model (FHIM) is to support semantic interoperability and harmonize information requirements from federal partners and standards organizations. One might say it aims to bring Boundaryless Information Flow&trade; to Healthcare. How well does it do this? How can it be used to enhance interoperability on a broad scale? These are the questions addressed in this non-technical paper written by private and public sector global and enterprise architecture experts.</p>
+
+<p>
+	<strong>Data Sheets:</strong></p>
+
+<p>
+	<strong><a href="https://publications.opengroup.org/q140" title="The Open Group Healthcare Forum">THE OPEN GROUP HEALTHCARE FORUM</a></strong></p>
+
+<p>
+	<strong>Podcasts: &nbsp;</strong></p>
+
+<p>
+	<strong><a href="https://publications.opengroup.org/pc040">HOW THE OPEN GROUP HEALTHCARE FORUM AND HEALTH ENTERPRISE REFERENCE ARCHITECTURE IMPROVE PROCESS AND TECHNOLOGY ILLS</a></strong></p>
+
+<p>
+	Transcript of a discussion on how a global standards body and its ecosystem of partners are working to improve how the healthcare industry operates.</p>
+        </div>
+        <div class="field field-name-field-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://publications.opengroup.org/">The Open Group Library </a></div></div></div>      </div>
+    </div>
+  </div>
+</div>
+</div></div></div></div>
+    </article>
+
+</section>
+<section id="block-block-81" class="block block-block clearfix">
+
+      
+  <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+#user-login .form-actions {
+    text-align: center;
+}
+#block-openid-connect-openid-connect-login {
+    text-align: center;
+    margin-top: 40px;
+}
+.nav > li.logged-sso {
+display: none;
+}
+.logged-in .non-logged-sso {
+display: none;
+}
+.logged-in .nav > li.logged-sso {
+display: block;
+}
+
+/*--><!]]>*/
+</style>
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<div class="ogmembers">
+	  <div class="region region-og-member">
+    <section id="block-nodeblock-56716" class="block block-nodeblock block-views-og-membersview-block clearfix">
+
+      
+  <div id="node-56716" class="node node-home-page clearfix" about="/og-membersview" typeof="sioc:Item foaf:Document">
+
+        <span property="dc:title" content="og membersView" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="view-og-membersview container">
+<div class="view-header">
+		The Open Group Platinum Members</div>
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-og-members">
+<div class="field-content">
+					<a href="http://www.dxc.technology/" target="_blank"><img alt="dxc" src="/sites/default/files/DXC_Logo_resize.png" style="width: 93px; height: 52px;" /></a></div>
+</div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-og-members">
+<div class="field-content">
+					<a href="http://www.fujitsu.com/global/" target="_blank"><img alt="fujitsu" class="img-responsive" height="76" src="/sites/default/files/fujitsu.png" typeof="foaf:Image" width="177" /></a></div>
+</div>
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-field-og-members">
+<div class="field-content">
+					<a href="https://www.hcltech.com/" target="_blank"><img alt="" class="img-responsive" src="/sites/default/files/HCL-logo-resized.png" style="width: 224px; height: 40px;" /></a></div>
+</div>
+</div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-field-og-members">
+<div class="field-content">
+					<a href="http://www.huawei.com/en/?ic_medium=direct&amp;ic_source=surlent" target="_blank"><img alt="huawei" class="img-responsive" height="76" src="/sites/default/files/huawei.png" typeof="foaf:Image" width="77" /></a></div>
+</div>
+</div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-field-og-members">
+<div class="field-content">
+					<a href="https://www.ibm.com/us-en/" target="_blank"><img alt="ibm" class="img-responsive" height="43" src="/sites/default/files/ibm.png" typeof="foaf:Image" width="95" /></a></div>
+</div>
+</div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-field-og-members">
+<div class="field-content">
+					<a href="https://www.intel.com/" target="_blank"><img alt="intel" class="img-responsive" src="/sites/default/files/Intellogo.png" style="height: 55px !important;" typeof="foaf:Image" /></a></div>
+</div>
+</div>
+<div class="views-row views-row-6 views-row-even views-row-last">
+<div class="views-field views-field-field-og-members">
+<div class="field-content">
+					<a href="https://www.opentext.com/" target="_blank"><img alt="OpenText-Logo" height="55" src="/sites/default/files/OpenText-Logo.png" style="height: 50px !important; width: 248px!important" /></a></div>
+</div>
+</div>
+</div>
+<div class="view-footer">
+		<a href="/our-members">Members of The Open Group</a></div>
+</div>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</section>
+  </div>
+</div>
+<footer class="footer">
+  <div class="container-fluid">
+	<div class="row">
+	  <div class="col-sm-4">
+		  <div class="region region-footer-left">
+    <section id="block-block-41" class="block block-block clearfix">
+
+      
+  <p>
+	<img alt="" src="/sites/default/files/Footer-logo_0.jpg" style="width: 394px; height: 374px;" /></p>
+
+</section>
+  </div>
+	  </div>
+	  <div class="col-sm-8">
+		  <div class="region region-footer">
+    <section id="block-menu-menu-footer-menu" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="/offices-contacts">Contact</a></li>
+<li class="leaf"><a href="http://www.opengroup.org/standardsprocess/" title="">Standards Process </a></li>
+<li class="leaf"><a href="/privacy">Privacy</a></li>
+<li class="collapsed"><a href="/legal">Legal</a></li>
+<li class="last leaf"><a href="/sitemap">Sitemap</a></li>
+</ul>
+</section>
+<section id="block-block-51" class="block block-block social_links_footer clearfix">
+
+      
+  <ul>
+<li>
+		<a href="https://www.linkedin.com/company/the-open-group/"><img alt="linkedIn" src="/sites/default/files/linkedIn.jpg" style="width: 75px; height: 75px;" /></a></li>
+<li>
+		<a href="/youtube"><img alt="youtube" src="/sites/default/files/youtube.jpg" style="width: 78px; height: 77px;" /></a></li>
+<li>
+		<a href="https://twitter.com/theopengroup"><img alt="twitter" src="/sites/default/files/twitter.jpg" style="width: 75px; height: 75px;" /></a></li>
+</ul>
+
+</section>
+<section id="block-block-46" class="block block-block copyright_footer clearfix">
+
+      
+  <p style="margin-bottom: 10px;">
+	© 1995-2023 The Open Group</p>
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+.page-node-1441 .node-forum .field-type-paragraphs > .field-items > .field-item:nth-of-type(1) .container_fluid_cust > .row > .pull-right.col-lg-4,
+.page-node-1441 .node-forum .field-type-paragraphs > .field-items > .field-item:nth-of-type(2) .container_fluid_cust > .row > .pull-right.col-lg-4 {display: none;}
+@media (min-width: 768px) {
+.page-node-1441 .node-forum .field-type-paragraphs > .field-items > .field-item:nth-of-type(1) .container_fluid_cust > .row > .col-lg-8,
+.page-node-1441 .node-forum .field-type-paragraphs > .field-items > .field-item:nth-of-type(2) .container_fluid_cust > .row > .col-lg-8 {width: 100%;}
+.aske-exp {margin-top: -63px;}
+}
+.tb-megamenu .mega-nav > .tb-megamenu-item.level-2 > a {text-transform: unset !important;}
+.logged-in .navbar-collapse ul.menu.secondary li.non-logged-sso {
+display: none;
+}
+.node.node-event > .field-name-field-event-location > .field-items .field-item {display: inline-block; margin-right: 6px;}
+@media (min-width: 992px) {
+
+.view-og-membersview .view-content > div {
+    margin: 25px 54px;
+    width: auto;
+}
+.node.node-event > div:not(.field-name-field-event-thumb) {
+     overflow: hidden;
+}
+}
+@media (max-width: 991px) {
+.front .leaddevblock h3 {font-size: 18px;}
+.paragraphs-items video, .paragraphs-items iframe {width: 100%; height: auto;}
+.view-og-membersview .view-content > div {padding: 0 15px;}
+}
+.eventsnewshome .banner-story p {font-size: 20px;
+    line-height: 26px;
+    color: #00667F;
+    margin-bottom: 26px;
+    font-family: "Open Sans";
+    font-weight: 400;}
+
+#webform-client-form-1499849 #bootstrap-panel-body {margin: 0 -15px; padding-top: 0;}
+#webform-client-form-1499849 #bootstrap-panel-body > div:not(.col-md-6) {padding: 0 15px;}
+#webform-client-form-1499849 #bootstrap-panel-body > div.webform-component--your-information--form-banner {padding: 0;}
+
+.call-submission-form > form {max-width: 800px; margin: 0 auto;}
+.call-submission-form > form input[type='text'] {width: 100%;}
+.call-submission-form > form .help-block {margin: 0 0 5px;}
+.call-submission-form > form .counter {color: #666;}
+.node-webform #webform-client-form-1499902 .panel {border: 1px solid #ddd; padding: 0 15px 15px;}
+.node-webform #webform-client-form-1499902 .panel-heading a.panel-title {margin: -11px -31px; padding: 10px 15px; background: #ddd;}
+.node-webform #webform-client-form-1499902 .panel-body {margin: 0 -15px; padding-top: 15px;}
+.table-responsive-custom {overflow: scroll; overflow-y: auto; overflow-x: auto; max-width: 100%;}
+
+
+/*--><!]]>*/
+</style>
+</section>
+<section id="block-block-146" class="block block-block clearfix">
+
+      
+  <!-- Statcounter code for OG Production
+https://opengroup.org on Drupal --><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+var sc_project=11829428; 
+var sc_invisible=1; 
+var sc_security="fdc36fea"; 
+var sc_https=1; 
+var sc_remove_link=1; 
+
+//--><!]]>
+</script><script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async=""></script><!-- <noscript><div class="statcounter"><img class="statcounter"<br />
+src="https://c.statcounter.com/11829428/0/fdc36fea/1/"<br />
+alt="Web Analytics Made Easy -<br />
+StatCounter"></div>
+<p></noscript> -->
+<!-- End of Statcounter Code -->
+</section>
+  </div>
+	  </div>
+	</div>
+  </div>
+</footer>
+  <script src="https://www.opengroup.org/sites/all/themes/bootstrap/js/bootstrap.js?rpttca"></script>
+</body>
+</html>
